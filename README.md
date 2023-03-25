@@ -1,6 +1,7 @@
 ## Hi, there! I'm Francis.
-<img width="25%" align="right" alt="Github"
-src="https://lottiefiles.com/97525-code-dark"/>
+![Code Desk](https://lottiefiles.com/97525-code-dark)
+<!-- <img width="25%" align="right" alt="Github" -->
+<!-- src="https://lottiefiles.com/97525-code-dark"/> -->
 I love learning new technologies in Machine Learning, Deep Learning, Data Science and Web Development. I particulary more interested in application and implementation of Machine Learning Algorithms and Deep Learning on edge devices. 
 - How to reach me: [Linkedin](linkedin.com/in/francis-jeremiah-majawa-aaab401a2/) [Gmail](francis.majawa@aims.ac.rw)
 <img src="https://komarev.com/ghpvc/?username=gpy1234&style=flat-square&color=blue"
@@ -11,3 +12,4 @@ alt=""/>
 - &nbsp; Exploring new technologies.
 <!--  -->
 <!-- (https://www.linkedin.com/in/francis-jeremiah-majawa-aaab401a2/) -->
+<!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
