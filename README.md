@@ -1,6 +1,6 @@
 ## Hi, there! I'm Francis.
 
-<img width="20%" align="right" alt="Github" src="https://github.com/fra-majawa/fra-majawa/blob/main/97525-code-dark.gif"/>
+<img width="30%" align="right" alt="Github" src="https://github.com/fra-majawa/fra-majawa/blob/main/97525-code-dark.gif"/>
 I love learning new technologies in Machine Learning, Deep Learning, Data Science and Web Development. I particulary more interested in application and implementation of Machine Learning Algorithms and Deep Learning on edge devices. 
 - How to reach me: [Linkedin](linkedin.com/in/francis-jeremiah-majawa-aaab401a2/) [Gmail](francis.majawa@aims.ac.rw)
 <img src="https://komarev.com/ghpvc/?username=gpy1234&style=flat-square&color=blue"
