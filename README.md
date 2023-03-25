@@ -4,7 +4,7 @@
 I love learning new technologies in Machine Learning, Deep Learning, Data Science and Web Development. I particulary more interested in application and implementation of Machine Learning Algorithms and Deep Learning on edge devices.
 
 ##### How to reach me:
-- [LinkedIn](https://aims.ac.rw/)
+- [LinkedIn](https://www.linkedin.com/in/francis-majawa-aaab401a2/)
 
 
 <img src="https://komarev.com/ghpvc/?username=gpy1234&style=flat-square&color=blue" alt=""/>
