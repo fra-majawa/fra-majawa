@@ -12,4 +12,4 @@ alt=""/>
 - &nbsp; Exploring new technologies.
 <!--  -->
 <!-- (https://www.linkedin.com/in/francis-jeremiah-majawa-aaab401a2/) -->
-<!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
